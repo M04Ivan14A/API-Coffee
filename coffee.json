@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "nama": "Caffè Latte",
+    "kategori": "Espresso Beverage",
+    "harga": "Rp 48.000",
+    "deskripsi": "Rich, full-bodied espresso in steamed milk, lightly topped with foam.",
+    "thumbnail": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/caffe_latte_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/caffe_latte_poster.jpg"
+  },
+  {
+    "id": "2",
+    "nama": "Caffè Mocha",
+    "kategori": "Espresso Beverage",
+    "harga": "Rp 55.000",
+    "deskripsi": "Espresso with bittersweet mocha sauce and steamed milk, topped with whipped cream.",
+    "thumbnail": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/caffee_mocha_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/caffee_mocha_poster.jpg"
+  },
+  {
+    "id": "3",
+    "nama": "Cappuccino",
+    "kategori": "Espresso Beverage",
+    "harga": "Rp 48.000",
+    "deskripsi": "Dark, rich espresso lies in wait under a smoothed and stretched layer of thick milk foam.",
+    "thumbnail": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/cappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/cappuccino_poster.jpg"
+  },
+  {
+    "id": "4",
+    "nama": "Caramel Macchiato",
+    "kategori": "Espresso Beverage",
+    "harga": "Rp 59.000",
+    "deskripsi": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with caramel drizzle.",
+    "thumbnail": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/caramel_macchiato_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/caramel_macchiato_poster.jpg"
+  },
+  {
+    "id": "5",
+    "nama": "Coffee Frappuccino",
+    "kategori": "Frappuccino Blended",
+    "harga": "Rp 52.000",
+    "deskripsi": "Coffee meets milk and ice in a blender for a rumble-and-tumble togetherness.",
+    "thumbnail": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/coffee_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/coffee_frappuccino_poster.jpg"
+  },
+  {
+    "id": "6",
+    "nama": "Cold Brew",
+    "kategori": "Cold Coffee",
+    "harga": "Rp 45.000",
+    "deskripsi": "Handcrafted in small batches daily, slow-steeped in cool water for 20 hours.",
+    "thumbnail": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/cold_brew_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/cold_brew_poster.jpg"
+  },
+  {
+    "id": "7",
+    "nama": "Mango Passion Frappuccino",
+    "kategori": "Blended Juice",
+    "harga": "Rp 50.000",
+    "deskripsi": "A tropical blend of mango passionfruit juice and green tea blended with ice.",
+    "thumbnail": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/mango_passion_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/mango_passion_frappuccino_poster.jpg"
+  },
+  {
+    "id": "8",
+    "nama": "Mocha Frappuccino",
+    "kategori": "Frappuccino Blended",
+    "harga": "Rp 58.000",
+    "deskripsi": "Mocha sauce, coffee, milk and ice all come together for a mocha flavor that will leave you wanting more.",
+    "thumbnail": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/mocha_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/mocha_frappuccino_poster.jpg"
+  },
+  {
+    "id": "9",
+    "nama": "Raspberry Currant Frappuccino",
+    "kategori": "Blended Juice",
+    "harga": "Rp 50.000",
+    "deskripsi": "A refreshing combination of raspberry and blackcurrant juice blended with tea and ice.",
+    "thumbnail": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/raspberry_currant_frappuccino_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/raspberry_currant_frappuccino_poster.jpg"
+  },
+  {
+    "id": "10",
+    "nama": "Vanilla Sweet Cream Cold Brew",
+    "kategori": "Cold Coffee",
+    "harga": "Rp 53.000",
+    "deskripsi": "Our slow-steeped Cold Brew accented with vanilla and topped with a float of house-made sweet cream.",
+    "thumbnail": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/vanilla_sweet_cream_cold_brew_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/vanilla_sweet_cream_cold_brew_poster.jpg"
+  }
+]

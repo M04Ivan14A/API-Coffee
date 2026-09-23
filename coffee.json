@@ -14,8 +14,8 @@
     "kategori": "Espresso Beverage",
     "harga": "Rp 55.000",
     "deskripsi": "Espresso with bittersweet mocha sauce and steamed milk, topped with whipped cream.",
-    "thumbnail": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/caffee_mocha_thumbnail.png",
-    "poster": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/caffee_mocha_poster.jpg"
+    "thumbnail": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/caffe_mocha_thumbnail.png",
+    "poster": "https://raw.githubusercontent.com/M04Ivan14A/API-Coffee/main/images/caffe_mocha_poster.jpg"
   },
   {
     "id": "3",
